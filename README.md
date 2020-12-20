@@ -1,0 +1,2 @@
+# Amazon_sitesi_kullanilabilirlik_testi
+Amazon sitesinin kullanılabilirliğini ölçen bir araştırma
